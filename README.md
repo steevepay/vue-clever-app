@@ -1,4 +1,6 @@
-# super-vue-app
+# Vuejs + Express + HTTPS redirection - Example app to deploy on Clever Cloud
+
+Read the full article here: 
 
 ## Project setup
 ```
@@ -19,6 +21,3 @@ npm run build
 ```
 npm run lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
