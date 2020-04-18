@@ -1,6 +1,6 @@
 # Vuejs + Express + HTTPS redirection - Example app to deploy on Clever Cloud
 
-Read the full article here: 
+Read the full article here: https://dev.to/steeve/vuejs-app-on-clevercloud-https-redirection-in-few-minutes-gpf
 
 ## Project setup
 ```
